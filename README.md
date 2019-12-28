@@ -1,2 +1,2 @@
-# Sharp-Suite-CompiledBinaries
+# Sharp-Suite CompiledBinaries
 Compiled Binaries for Sharp Suite
