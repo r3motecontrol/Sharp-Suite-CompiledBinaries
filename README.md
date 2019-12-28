@@ -1,2 +1,2 @@
 # Sharp-Suite CompiledBinaries
-Compiled Binaries for Sharp Suite
+Compiled binaries for [Sharp-Suite](https://github.com/FuzzySecurity/Sharp-Suite) released by [@fuzzysec](https://twitter.com/fuzzysec)
